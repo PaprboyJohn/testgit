@@ -4,4 +4,5 @@ John branch
 Fix1
 After removing and recreating README.txt
 Adding a new line of text
+Editing for Feature-1
 New line from testgit2 master
